@@ -67,7 +67,8 @@ CMakeFiles/trig.dir/src/main.c.o: ../src/main.c \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
   ../src/headers/slider/slider.h \
   ../src/headers/slider/slider.c \
-  ../src/headers/slider/slider.h
+  ../src/headers/slider/slider.h \
+  ../src/headers/tangent/tangent.h
 
 
 ../src/headers/slider/slider.c:
@@ -83,6 +84,8 @@ CMakeFiles/trig.dir/src/main.c.o: ../src/main.c \
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+../src/headers/tangent/tangent.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 

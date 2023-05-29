@@ -59,4 +59,5 @@ CMakeFiles/trig.dir/src/main.c.o: \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /home/ericbruh/Downloads/c-lang/trig_sim/src/headers/slider/slider.h \
  /home/ericbruh/Downloads/c-lang/trig_sim/src/headers/slider/slider.c \
- /home/ericbruh/Downloads/c-lang/trig_sim/src/headers/slider/slider.h
+ /home/ericbruh/Downloads/c-lang/trig_sim/src/headers/slider/slider.h \
+ /home/ericbruh/Downloads/c-lang/trig_sim/src/headers/tangent/tangent.h
